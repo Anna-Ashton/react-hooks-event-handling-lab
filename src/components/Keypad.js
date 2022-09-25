@@ -3,7 +3,7 @@ import React from "react";
 
 function Keypad (){
     function passwordHere() {
-        console.log(passwordHere);
+        console.log('Entering password...');
     }
 
 
