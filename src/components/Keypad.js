@@ -2,8 +2,9 @@
 import React from "react";
 
 function Keypad (){
-    let passwordHere= 'Entering password...';
-    console.log(passwordHere);
+    function passwordHere() {
+        console.log(passwordHere);
+    }
 
 
     return (
